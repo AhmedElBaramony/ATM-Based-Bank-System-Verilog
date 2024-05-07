@@ -1,0 +1,157 @@
+
+State (0)
+Inserted Account Number: 4090
+test 1: wrong account entered
+
+
+State (0)
+Inserted Account Number: 4095
+test 2: Right account entered
+
+
+State (1)
+selected Language: english
+
+State (2)
+Entered pin code: 4081
+
+State (3)
+Pin code entered wrong
+
+State (2)
+Entered pin code: 4095
+
+State (3)
+Pin code entered correctly
+
+State (4)
+Entered operation: deposit
+
+
+State (5)
+deposit_amount: 287
+
+State (10)
+current balance: 1379
+New balance: 1666
+
+State (11)
+Reciept: 
+New balance: 1666
+
+State (4)
+Entered operation: withdraw
+
+
+State (6)
+withdraw amount: 19
+
+State (12)
+Balance checked
+
+State (10)
+current balance: 1666
+New balance: 1647
+
+State (13)
+money out: 19
+
+State (4)
+Entered operation: balance service
+
+
+State (7)
+Balance Service Page
+
+State (11)
+Reciept: 
+New balance: 1647
+
+State (4)
+Entered operation: deposit
+
+
+State (5)
+deposit_amount: 287
+
+State (10)
+current balance: 1647
+New balance: 1934
+
+State (11)
+Reciept: 
+New balance: 1934
+
+State (4)
+Entered operation: transfer
+
+
+State (8)
+transfer amount: 18
+
+State (12)
+Balance checked
+
+State (10)
+current balance: 1934
+New balance: 1916
+
+State (14)
+Transfer Succeed
+
+State (4)
+Entered operation: withdraw
+
+
+State (6)
+withdraw amount: 4094
+
+State (12)
+invalid withdrawn amount
+
+State (4)
+Entered operation: balance service
+
+
+State (7)
+Balance Service Page
+
+State (11)
+Reciept: 
+New balance: 1916
+
+State (4)
+Entered operation: deposit
+
+
+State (5)
+deposit_amount: 287
+
+State (10)
+current balance: 1916
+New balance: 2203
+
+State (11)
+Reciept: 
+New balance: 2203
+
+State (4)
+Entered operation: transfer
+
+
+State (8)
+transfer amount: 4094
+
+State (12)
+invalid withdrawn amount
+
+State (4)
+Entered operation: Invalid Choice Of Operation
+
+
+State (4)
+Entered operation: Exit
+
+
+State (9)
+System has been terminated
